@@ -86,7 +86,7 @@
 
 <p align="center">
   <img
-    src="./profile/streak.svg"
+    src="https://streak-stats.demolab.com/?user=AnshitSharma05&theme=dark&hide_border=false"
     width="80%"
     alt="GitHub Streak"
   />
