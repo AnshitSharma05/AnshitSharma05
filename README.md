@@ -86,7 +86,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=AnshitSharma05&theme=dark"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=AnshitSharma05&theme=dark&background=050817&border=8AB4F8&stroke=20263A&ring=79B8FF&fire=79B8FF&currStreakNum=79B8FF&sideNums=79B8FF&currStreakLabel=79B8FF&sideLabels=79B8FF&dates=9AA7BD"
     width="80%"
     alt="GitHub Streak"
   />
