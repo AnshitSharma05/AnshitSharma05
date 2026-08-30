@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshit Sharma</h1>
+<h1 align="center">Hi , I'm Anshit Sharma</h1>
 
 <h3 align="center">A Web Developer from India 🇮🇳</h3>
 
@@ -13,10 +13,10 @@
 
 ##  About Me
 
-- 🔭 I’m currently working on **Vyro**
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Full Stack Development and DevOps**
-- 📫 How to reach me: **[anshitsharma182@gmail.com](mailto:anshitsharma182@gmail.com)**
+-  I’m currently working on **Vyro**
+-  I’m currently learning **DevOps**
+-  Ask me about **Full Stack Development and DevOps**
+-  How to reach me: **[anshitsharma182@gmail.com](mailto:anshitsharma182@gmail.com)**
 
 ---
 
